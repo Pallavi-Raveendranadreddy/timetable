@@ -5,13 +5,13 @@ To Write a html webpage page to display your timetable.
 
 # ALGORITHM
 ### STEP 1
-create a simple table using table tag
+create a simple table using table tag.
 ### STEP 2
-Add header row using th tag
+Add header row using th tag.
 ### STEP 3
-Add your timetable
+Add your timetable.
 ### STEP 4
-Execute the program
+Execute the program.
 
 # CODE
 ~~~<!DOCTYPE html>
@@ -127,7 +127,7 @@ Execute the program
 
 
 ~~~
-##output
+
 ## output
 ![output](./ssn1.png)
 ![output](./SSN.PNG)
