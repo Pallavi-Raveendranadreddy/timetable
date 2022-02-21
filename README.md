@@ -131,3 +131,5 @@ Execute the program.
 ## output
 ![output](./ssn1.png)
 ![output](./SSN.PNG)
+## Result
+Thus the html webpage page to display your timetable.
